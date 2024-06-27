@@ -1,7 +1,23 @@
-#ducky{
-    width: 400px;
-    height: 100px;
-    position: relative;
-    top: 0;
-    left: 0;
+
+html {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/559465cb-2c06-4177-a5ce-dee4c6409ce6/dg1lyx2-2619d726-4c0b-4a3a-84b5-a99c3207728b.png/v1/fill/w_1194,h_669,q_70,strp/pond_of_clear_water_vn_background_by_drechenaux_dg1lyx2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6IlwvZlwvNTU5NDY1Y2ItMmMwNi00MTc3LWE1Y2UtZGVlNGM2NDA5Y2U2XC9kZzFseXgyLTI2MTlkNzI2LTRjMGItNGEzYS04NGI1LWE5OWMzMjA3NzI4Yi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.asc797N036JOkk9408M7CASPS3xuLfShTYzw0tJwvOk); 
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    text-decoration:double underline;
+    font-family: "fantasy","copperplate";
+    color:blue
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    backdrop-filter: blur(15px);
+    text-align: center;
+    margin: auto;
+    width:500px;
+}
+
+h3{
+    color:blue
 }
